@@ -1,0 +1,25 @@
+.formulario{
+  margin-top: 10%;
+  position: absolute;
+  color:#f3f2f2;
+  margin-left: 38%;
+  top: 100px;
+  font-size: 15px;
+  font-weight: bold;
+  line-height: 35px;
+  
+}
+
+.cadastrarlivro{
+ margin-top: 78%;
+  position: absolute;
+  
+  margin-left: 28%;
+  top: 100px;
+  border-radius: 16px;
+  color: #ffffff;
+  font-weight: bold;
+  background-color: #edededff;
+  padding: 7px 36px;
+  transition-duration: 0.4s;
+}

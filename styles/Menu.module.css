@@ -1,0 +1,23 @@
+.cabecalho{
+  border-bottom: var(--border-menu); 
+  height: 100px;
+  width: 100%;
+  color: #ffff;
+  font-size: 16px;  
+}
+
+.text{ 
+  float: right;
+   margin-top: 50px;
+  margin-right: 50px;
+  font-weight: bold;
+}
+
+.barrasec{
+  display: flex;
+  background-color: #d8d5d5;
+  height: 1px;
+  width: 100%;
+}
+
+
